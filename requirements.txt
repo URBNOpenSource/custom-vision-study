@@ -1,0 +1,11 @@
+google-cloud-automl
+protobuf
+keras
+Pillow
+sklearn
+fastai==1.0.19
+clarifai
+pandas
+numpy
+requests
+joblib

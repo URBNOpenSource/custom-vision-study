@@ -1,0 +1,7 @@
+# Base requirements
+-r requirements.txt
+
+# Developer requirements for lint/test
+black
+flake8
+pre-commit

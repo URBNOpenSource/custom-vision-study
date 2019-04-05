@@ -7,6 +7,7 @@ This repository hosts notebooks, data references, results, and findings from a s
 * See the presentations in the `presentations` directory for what was presented at REWORK Deep Learning London in September 2018
 * See the spreadsheet in the `results` directory for a detailed accounting of all results and summary statistics
 * See the URBN Engineering Blog articles for a written summary of findings: [Part 1](https://medium.com/@tszumowski/exploring-custom-vision-services-for-automated-fashion-product-attribution-part-1-1795457dce9), [Part 2](https://medium.com/@tszumowski/exploring-custom-vision-services-for-automated-fashion-product-attribution-part-2-2c928902db47)
+* [TWiML & AI Talk #247: Benchmarking Custom Computer Vision Services at Urban Outfitters with Tom Szumowski](https://twimlai.com/twiml-talk-247-benchmarking-custom-computer-vision-services-at-urban-outfitters-with-tom-szumowski/).
 
 ## Datasets
 

@@ -1,7 +1,2 @@
-# -*- mode: gitignore; -*-
 # https://help.github.com/articles/about-codeowners/
-* @tszumowski
-* @MXWest
-* @MParadowski1
-* @nerkis
-* @svarma01
+* @tszumowski @MXWest @MParadowski1 @nerkis
